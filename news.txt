@@ -1,20 +1,11 @@
-1.3 Update!
-\n
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu sem nisl. In hac habitasse platea dictumst.
-\n
-\n
-1.2 Update!
-\n
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu sem nisl. In hac habitasse platea dictumst.
-\n
-\n
-1.1 Update!
-\n
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu sem nisl. In hac habitasse platea dictumst.
-\n
-\n
-Villen Launcher Alpha
-\n
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu sem nisl. In hac habitasse platea dictumst.
-\n
-\n
+Welcome to Villen Launcher!
+
+Version 1.0.0 - Release Notes:
+- Added new feature A
+- Fixed bug in feature B
+- Improved performance
+
+Version 1.1.0 - Release Notes:
+- Introducing feature C
+- Addressed security vulnerabilities
+- User interface enhancements
