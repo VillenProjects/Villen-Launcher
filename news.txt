@@ -1,11 +1,1 @@
-Welcome to Villen Launcher!
-
-Version 1.0.0 - Release Notes:
-- Added new feature A
-- Fixed bug in feature B
-- Improved performance
-
-Version 1.1.0 - Release Notes:
-- Introducing feature C
-- Addressed security vulnerabilities
-- User interface enhancements
+Welcome to Villen Launcher!\r\n\r\nVersion 1.0.0 - Release Notes:\r\n- Added new feature A\r\n- Fixed bug in feature B\r\n- Improved performance\r\n\r\nVersion 1.1.0 - Release Notes:\r\n- Introducing feature C\r\n- Addressed security vulnerabilities\r\n- User interface enhancements
